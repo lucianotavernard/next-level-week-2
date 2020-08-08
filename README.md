@@ -57,8 +57,7 @@ Para rodar essa aplicação, você precisa ter [Git](https://git-scm.com), [Node
 3. Rode o comando para instalar as dependências: `yarn`
 4. Rode o comando para instalar as outras dependências: `yarn bootstrap`
 5. Rode o comando para criar as migrations: `yarn db:migrate`
-6. Rode o comando para inserir as migrations: `yarn db:seed`
-7. Para iniciar toda a aplicação: `yarn dev`
+7. Para iniciar toda a aplicação: `yarn dev-all`
 8. Para iniciar somente o backend e o frontend: `yarn dev-web`
 9. Para iniciar somente o backend e o mobile: `yarn dev-mobile`
 
