@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.header`
   display: flex;
@@ -23,7 +23,7 @@ export const TopBarContainer = styled.div`
     height: 3.2rem;
     transition: opacity 0.2s;
 
-    :hover {
+    &:hover {
       opacity: 0.6;
     }
   }

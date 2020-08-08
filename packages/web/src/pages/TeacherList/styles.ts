@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.main`
   width: 100vw;
@@ -29,7 +29,7 @@ export const Container = styled.main`
       transition: background-color 0.2s;
       cursor: pointer;
 
-      :hover {
+      &:hover {
         background: var(--color-secundary-dark);
       }
     }

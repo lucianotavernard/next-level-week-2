@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.div`
   position: relative;
@@ -14,7 +14,7 @@ export const Container = styled.div`
   :focus-within::after {
     width: calc(100% -3.2rem);
     height: 2px;
-    content: "";
+    content: '';
     background: var(--color-primary-light);
     position: absolute;
     left: 1.6rem;

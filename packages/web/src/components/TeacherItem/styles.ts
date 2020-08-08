@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.article`
   background: var(--color-box-base);
@@ -65,7 +65,7 @@ export const Container = styled.article`
       transition: 0.2ms;
       text-decoration: none;
 
-      :hover {
+      &:hover {
         background: var(--color-secundary-dark);
       }
     }

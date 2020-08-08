@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.main`
   display: flex;
@@ -49,7 +49,7 @@ export const Content = styled.div`
     display: grid;
     grid-template-rows: 350px 1fr;
     grid-template-columns: 2fr 1fr 1fr;
-    grid-template-areas: "logo hero hero" "buttons buttons total";
+    grid-template-areas: 'logo hero hero' 'buttons buttons total';
 
     max-width: 1100px;
 
@@ -106,7 +106,7 @@ export const ButtonsContainer = styled.div`
       margin-right: 1.6rem;
     }
 
-    .study {
+    &.study {
       background: var(--color-primary-lighter);
 
       &:hover {
@@ -114,7 +114,7 @@ export const ButtonsContainer = styled.div`
       }
     }
 
-    .give-classes {
+    &.give-classes {
       background: var(--color-secundary);
 
       &:hover {
