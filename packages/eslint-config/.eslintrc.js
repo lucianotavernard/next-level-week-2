@@ -26,6 +26,7 @@ module.exports = {
     'no-alert': 'off',
     'func-names': 'off',
     'prettier/prettier': 'error',
+    'import/prefer-default-export':'off',
     'react/jsx-one-expression-per-line': 'off',
     'react/jsx-props-no-spreading': 'off',
     'react/prop-types': 'off',
