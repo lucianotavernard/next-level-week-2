@@ -26,7 +26,7 @@ const TeacherItem: React.FC<TeacherItemProps> = ({ teacher }) => {
     await api.post('connections', {
       user_id: teacher.id,
     });
-  }, []);
+  }, [teacher.id]);
 
   return (
     <Container>
