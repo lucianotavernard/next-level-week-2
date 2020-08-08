@@ -1,0 +1,16 @@
+{
+  "name": "proffy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private":true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "Luciano Tavernard <lucianotavernard@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@proffy/eslint-config": "*"
+  }
+}
