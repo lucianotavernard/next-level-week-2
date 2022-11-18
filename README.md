@@ -5,16 +5,16 @@
 <h4 align="center">🚀 Next Level Week #2</h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ltavernard/proffy">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianotavernard/next-level-week-2">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ltavernard/proffy">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianotavernard/next-level-week-2">
 
-  <a href="https://github.com/ltavernard/proffy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ltavernard/proffy">
+  <a href="https://github.com/lucianotavernard/next-level-week-2/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianotavernard/next-level-week-2">
   </a>
 
-  <a href="https://github.com/ltavernard/proffy/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ltavernard/proffy">
+  <a href="https://github.com/lucianotavernard/next-level-week-2/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianotavernard/next-level-week-2">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src=".github/proffy.png" width="100%">
+  <img alt="Frontend" src=".github/next-level-week.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :computer: Projeto
 
-Proffy é uma aplicação que pode ser usado para gerenciamento de conexões entre professores e alunos.
+next-level-week-2 é uma aplicação que pode ser usado para gerenciamento de conexões entre professores e alunos.
 
 ## :fire: Como iniciar a aplicação
 
@@ -52,8 +52,8 @@ Para rodar essa aplicação, você precisa ter [Git](https://git-scm.com), [Node
 
 ### No momento, você pode iniciar o projeto com as seguintes etapas:
 
-1. Clone o repositório: `https://github.com/ltavernard/proffy.git`
-2. Acesse o diretório do projeto: `cd proffy`
+1. Clone o repositório: `https://github.com/lucianotavernard/next-level-week-2.git`
+2. Acesse o diretório do projeto: `cd next-level-week-2`
 3. Rode o comando para instalar as dependências: `yarn`
 4. Rode o comando para instalar as outras dependências: `yarn bootstrap`
 5. Rode o comando para criar as migrations: `yarn db:migrate`
